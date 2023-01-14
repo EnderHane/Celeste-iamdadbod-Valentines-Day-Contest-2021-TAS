@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Goldian
-ChapterTime: 0:48.824(2872)
+ChapterTime: 0:48.705(2865)
    1
 
 #Start
@@ -76,14 +76,30 @@ ChapterTime: 0:48.824(2872)
   29,R,G
    1,R,J,G
   22,R
-  49
+   7
+repeat,21
+   1,D
+   1
+endrepeat
   55,D,X
   15,L,C
   11,R,D,X
    1,R,J,G
    5,R,K,G
   10,R
- 450
+  10
+repeat,30
+   1,D
+   1
+endrepeat
+repeat,45
+   2,D
+   2
+endrepeat
+repeat,25
+   4,D
+   4
+endrepeat
   10,R,X
    6,R,J
   15,U,X
@@ -94,7 +110,12 @@ ChapterTime: 0:48.824(2872)
    6,L
    6
    6,L
- 143
+   7
+repeat,8
+   8,D
+   8
+endrepeat
+   8
   15,J
   15,U,X
    3,R,J
@@ -143,10 +164,35 @@ ChapterTime: 0:48.824(2872)
   14,L,U,X
    8,L,J,G
    9,L
-  29,U,X
-   9,L
- 450
-  18,J
+  15,U,X
+repeat,40
+   1,L
+   1,R
+endrepeat
+repeat,11
+  16,D
+  16
+endrepeat
+repeat,5
+   1,R
+   1,L
+endrepeat
+   1,R
+   1,D
+   1,R
+   1
+   1,R
+  17
+   1,L
+   1,J
+   2,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   2,L,J
+   1,R,J
+   8,K,G
+   2,L,K
   15,U,X
   10,R
    5,R,Z
