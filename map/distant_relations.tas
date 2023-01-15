@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Minemah
-ChapterTime: 0:48.637(2861)
+ChapterTime: 0:48.552(2856)
    1
 
 #Start
@@ -241,19 +241,21 @@ ChapterTime: 0:48.637(2861)
    8,R,J,G
   12,U,X
    8,R,D,C
-  12,R,X
-  18,R,J
-   1,R,K,G
-   1,R,D,C
-  13,R,C
-   1,R,J
-  18,R,D,C
-   1,R
+  12,R,Z
    3,R,J
-   3,R
-  15,R,D,C
+   1
+   1,J
+  12,R,U,X
+   1,R,J,G
+   4
+   5,R
+   1,R,J
+  20,R,D,X
+   1
+   5,R,J
+  15,R,D,X
    1,R,J
   12,R,U,C
   19,R,K,G
-   5,R,D,C
- 134
+   5,U,X
+ 134,R
