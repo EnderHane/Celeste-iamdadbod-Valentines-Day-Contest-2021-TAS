@@ -1,7 +1,7 @@
 console wipedebug
 console load ValentinesContest2021/0-Lobbies/1-Submissions lvl_00 2
-console hearts 20
   37
+console hearts 20
 
 #Start
   10,R,Z

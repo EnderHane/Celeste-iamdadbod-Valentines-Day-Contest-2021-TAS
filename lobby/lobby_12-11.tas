@@ -2,14 +2,16 @@ console load ValentinesContest2021/0-Lobbies/1-Submissions lvl_00 20
   37
 
 #Start
-   4,Z
+   5,L,Z
    1,L,J
-  29,L,D
+   5,L
+   1
+  22,L,D
    1,X
   20
    1,J
   30
    1,J
   46
-FileTime: 0:02.822(166)
-#0:00.544(32)
+FileTime: 0:02.805(165)
+#0:00.527(31)
