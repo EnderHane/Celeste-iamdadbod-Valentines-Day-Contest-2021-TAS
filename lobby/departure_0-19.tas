@@ -3,19 +3,21 @@ console load ValentinesContest2021/0-Lobbies/1-Submissions
 
 #Start
  190
-  10,L,Z
-  13,L,J
-  15,U,X
-   3,L
-   9,R,J
-  12,R,K,G
-   3,R,J,G
-   6,R
+   8,R,Z
+   1,L,J
+   7,L
+  16,L,J
+  14,U,X
+   3,R,J
+   1,R,K,G
+  12,R,J,G
+   4,R,K,G
+   4,R
    1,X
   20
    1,J
   30
    1,J
   46
-FileTime: 0:06.001(353)
-#0:01.105(65)
+FileTime: 0:05.984(352)
+#0:01.088(64)

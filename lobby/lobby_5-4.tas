@@ -1,0 +1,28 @@
+console load ValentinesContest2021/0-Lobbies/1-Submissions lvl_00 8
+  37
+
+#Start
+  10,R,Z
+  12,R,J
+  13,U,X
+   9,R,J
+   5,L,J
+   1,L
+   3,L,K,G
+   2,L
+   1,L,J,G
+   1,L
+   4,L,J,G
+   1,L
+   5,L,K,G
+   7,L
+   9,L,Z
+   1,L,J
+   1,X
+  20
+   1,O
+  30
+   1,O
+  46
+FileTime: 0:03.553(209)
+#0:01.275(75)
