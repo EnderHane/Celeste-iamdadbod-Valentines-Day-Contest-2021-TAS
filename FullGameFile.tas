@@ -1,0 +1,46 @@
+unsafe
+
+#Start
+   1,D
+   1,O
+  43
+#filename:
+#TtaASs
+   1,D
+   1,F,180
+   1,R
+   1,O
+repeat 4
+   1,R
+   1,F,90
+endrepeat
+   1,O
+   1,U
+   1,F,0
+   1,L
+   1,O
+repeat 4
+   1,L
+   1,F,270
+endrepeat
+   1,L
+   1,O
+   1,D
+   1,F,180
+   1,O
+repeat 4
+   1,R
+   1,F,90
+endrepeat
+   1,O
+   1,S
+  48
+   1,D
+   1,F,180
+   1,D
+   1,R
+   1,U
+   1,F,0
+   1,U
+   1,F,0
+   1,O
