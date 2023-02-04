@@ -1,0 +1,91 @@
+unsafe
+EnforceLegal
+
+Read,FullGameFile.tas,Start
+
+Read,lobby\departure_0-19.tas,Start
+Read,map\connected_candy.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_19-18.tas,Start
+Read,map\network_check.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_18-20.tas,Start
+Read,map\comb_connections_city.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_20-15.tas,Start
+Read,map\distant_relations.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_15-16.tas,Start
+Read,map\deep_violet.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_16-17.tas,Start
+Read,map\banana_ridge.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_17-1.tas,Start
+Read,map\duality.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_1-2.tas,Start
+Read,map\cupids_comet.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_2-3.tas,Start
+Read,map\sync.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_3-4.tas,Start
+Read,map\simulation_storage.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_4-5.tas,Start
+Read,map\cherry_city.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_5-6.tas,Start
+Read,map\infinite_realities.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_6-7.tas,Start
+Read,map\shattered_space.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_7-8.tas,Start
+Read,map\misty_grotto.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_8-9.tas,Start
+Read,map\connected.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_9-10.tas,Start
+Read,map\loop.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_10-11.tas,Start
+Read,map\moving_on.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_11-12.tas,Start
+Read,map\learning_to_love.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_12-13.tas,Start
+Read,map\so_below.tas,Start
+Read,MapEnd.tas
+Read,lobby\lobby_13-14.tas,Start
+Read,map\string_thoery.tas,Start
+Read,MapEnd.tas
+Read,lobby\terminal_14-21.tas,Start
+
+Read,LevelEnd.tas
+
+#journal
+   1,X
+  20
+   1,N
+  30
+   1,R
+  14
+#
+ 100
+#
+   1,X
+  30
+   1,O
+  21
+   1,O
+  46
+
+Read,ContestJournal.tas,Start
+
+#
+ 180
+#
