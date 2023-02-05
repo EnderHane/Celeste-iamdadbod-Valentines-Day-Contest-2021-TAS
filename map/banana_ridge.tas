@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Banana23
-ChapterTime: 0:56.015(3295)
+ChapterTime: 0:55.998(3294)
    1
 
 #Start
@@ -336,12 +336,14 @@ ChapterTime: 0:56.015(3295)
    9,R
   10,L,Z
   25,R,J
-  20,R,U,X
+  23,R,U,X
   15,R,D,C
-  25,R
-  28,R,U,X
-  22,R,C
-   3
+  10,R,D
+  10,R
+  25,R,U,Z
+  15,R,X
+  12,R
+   2
   13,R,X
    1,L,J
    1,J
