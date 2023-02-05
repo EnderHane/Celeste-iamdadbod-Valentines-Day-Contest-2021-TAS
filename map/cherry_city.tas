@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Scribbles
-ChapterTime: 0:38.165(2245)
+ChapterTime: 0:34.799(2047)
    1
 
 #Start
@@ -227,43 +227,30 @@ EndAutoInput
   24,R,X
   42,L,C
   18,U,X
-  18,U,C
-  14,L,X
-   1,L,J,G
-   1,L,K,G
-   2,R,K
-   3,L,K
-  14,K
-   2,L,K
-   4,L
-  10,D
-   1
-  10,L,X
-  11,R,J
-  14,U,X
-  21,R
-  12,R,X
-   8,R
-   5,R,D
-  15,D
-   7,R,D
-  27,R
-   2
    5,R
-  43,R,J
-   2
-  18,R,Z
-   7,U,X
-  15,R,J
-   8,R
-   3,R,J
-  14,R
-   4,R,X
+  18,U,C
+   9,R
+   1,L
+   3,L,J,G
    1,R,J
-  14,L
    1,L,J
-  31,L
-  27
+   2,R,J
+   1,L
+  12,R,K
+   8,R
+   1,R,K
+   3,R
+  14,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   9,R,D,X
+   4,R,J
+   2,L,J
+  11,L
+  15,L,D,X
+  13,R
+  35
   11,J
    1
   14,U,X
