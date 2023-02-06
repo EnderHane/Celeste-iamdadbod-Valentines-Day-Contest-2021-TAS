@@ -1,39 +1,41 @@
 console load ValentinesContest2021/1-Submissions/eee
-ChapterTime: 0:46.716(2748)
+ChapterTime: 0:45.305(2665)
    1
 
 #Start
   36
 
 #lvl_1a
-   5,Z
+   5,R,Z
    1,R,J
    7,R
-  13,R,J
-  14,R,D,X
+  12,R,J
+   9,R,D,X
    1,R,J
+   6,R
   40
 
 #lvl_1b
-  14,R,J
-  18,U,X
    1,R
-  10,L,Z
-  22,R,J
-  17,U,X
-  20,L,J
+  12,R,J
+   5,U,X
+  13,R
   10,L,Z
   20,R,J
-  18,R,U,X
-  15,R,C
-  12,R
-  12,L,D,X
-  12,R,J
+  18,U,Z
+  18,L,J
+  10,L,Z
+  11,R,J
    1,R
-  13,R,J
-  15,R,U,X
-   3
-  15,D,C
+   1,R,J
+   8,R
+  18,R,U,X
+  27,R,C
+  10,L,D,X
+  15,R,J
+   8,R
+  18,R,U,X
+  14,D,C
   24,L
    2,R
    7,R,D
@@ -45,127 +47,136 @@ ChapterTime: 0:46.716(2748)
 
 #lvl_2a
    7,R,D,C
-   2,R,J
-   8,R
+   1,R,J
+   7,R
   12,R,J
   14,R,D,X
    1,R,J
+   1,R
   40
 
 #lvl_2b
-   6,R,D,X
+   9,R
+   2
    1,R,J
-  23,R
-   8,L
-  15,L,U,Z
-  12,L
-   2,J,G
-   2,R,J,G
-  10,R,K
+  20,R,Z
+   7,L
+  27,L,U,X
+   1,J
+   6,R,J
+   3,J
   14,U,X
-   2,L,J
-   5,L
+   3,L,J
+   4,L
    1,L,J,G
-   2,J,G
-   7,R
+   1,J
+   7
   10,L,D,X
    3,R,J
-   9,R
+   6,R
+   1,R,J
+   2,R
    1,J,G
    6,R,J,G
    1,R
   19,R,J,G
    5,D,X
   37,R,J
-  14,U,X
-  22,R,J
-  15,R,X
-  17,R
-   5,R,D
-  13,L,D,X
+  15,U,X
   20,R,J
+  18,R,X
+  17,R,D
+  14,L,D,X
+  15,R,J
+   5,R
   18,R,U,X
   15,R,D,C
   15,R,D
-  11,L,D
-   4,L,Z
-  27,L,J
-   1,G
-   5
-   1,K
-   3,L,K
-  18,L
-   1,L,D
-   7,R,D
-   2,D
+  10,L,D
+   9,L,Z
+  10,L,J
+  12,L
+   1,L,G
    1
-   2,D
+   1,J
+   5,L,J
+  18,L
+   8,R
+   1
+   1,R
+   1
+   1,R
+   3
    4,R,Z
    1,R,J
-  15,R
-   9,R,D
-   1,L,D
+  24,R
 
 #lvl_3a
+   1,L,D
    7,L,D,X
    7,L,J
-   1,R,G
-  27,R
-   4,R,Z
+  21,R,G
+   7,R
+   6,R,Z
    1,R,J
-   7,L
-   5,R,J
-  14,L
-   1,R,J
-   1,R,G
-  15,R
-   6
-  15,D,X
-   3,L
-   9
-   3,D
+   3,R
    1
-   2,D
-   4,R,Z
-   2,R,J
-   2,R
+   3,R
+   1,J
+  15,R,U,X
+  21,G
+   1,R
+   1,J
+  16
+   7,L,Z
    1,R,J
-   5,R
-  11,R,J
-  14,R,D,X
-   1,R,J
+   6,R
+   4,R,J
+   6,R
+  10,R,X
+   1,R,J,G
+  17,R
+   5,R,D,X
+
   40
 
 #lvl_3b
-  11,R,D,X
-   2,R,J
-  13,R
-  50,R,G
-  22,R
-  15,D,X
-  31,R
-   7,R,D
-  14,R,D,X
-   1,R,J
-   7,R
-  28,R,G
-  18,R,D,G
+  10,R
+   6,L,D,X
+   9,R,J
+   2,R
+   1
+   6,R
+  61,R,G
    1,R
-   3,R,D
-  13,R,Z
-   9,L,J
-  10,L
+  17,D,X
+  10,R
+  15,R,D,X
+   3,R
+   8,R,D
+   1,R,J
+   9,R
+  45,R,G
+   1,R
+   4,R,D
+   2,D
+   1,R,D
+  10,R,D,X
+   8,L,J
+   4,L
+   1,L,J
+   4,L
+   2
   14,L,D,X
-  49,R,J
-  15,U,X
-   4,R
+  10,R,J
+  43,R
+  18,U,X
   10,L,Z
-  43,R,J
-  15,R,U,X
-  13,R
-  15,R,X
-   7,R
-  35,D
+  34,R,J
+  27,R,X
+  15,R,C
+   6,R,D
+  32,D
    1,L,D
   10,R,D,X
    6,L,J
@@ -178,9 +189,10 @@ ChapterTime: 0:46.716(2748)
    4,L,Z
    1,L,J
    1,R,J
-   9,L,J
+   8,L,J
 
 #lvl_4a
+   1,L,J
    7,L,D,X
    1,L,J
   12,L
@@ -205,8 +217,7 @@ ChapterTime: 0:46.716(2748)
   11,R,Z
   20,L,J
   18,L,X
-   1,R,G
-  20,R
+  21,R,G
    1,L
   15,R,X
   15,R,C
@@ -217,64 +228,73 @@ ChapterTime: 0:46.716(2748)
    2,L
    2,R
    2,L
-   2,R,D
+  20,L,D
    2,L,D
    2,R,D
-  10,R,D
-   5,D
-   4,R,D
-   5,L,D
-   4,L,Z
-   1,L,J
-  17,L,D
-  33,D
-   2,L,D
-  10,R,D,X
-  14,R,J
-  33,L,J
-  18,L,X
-   7,L
-  10,L,Z
-  10,L,J
-  15,L
+   4,L,D
+   1,L
+  15,L,D,X
+   5,L
+  19,L,D
+   7,D
    3,L,D
-  10,D,X
-   9,L
-  15,L,X
-  12,L,Z
-  28,L,J
-   8,R,D
-  15,D,X
+   2,D
+  13,R,D,X
+   6,R,J
+   1,R
+   4,R,J
+   2,R,K,G
+  22,L
+  25,L,X
+  14,L,Z
+  12,L,J
+  17,L,D,X
+   8,L
+  12,L,U,X
+   3,L,J,G
+   5,L
+  14,L,Z
+  21,L,J
+   9,L,D
+   6,R,D
+  14,D,X
+   7,L
    1
-  14,L
+   3,L
+   4
   15,L,X
    8,L
-  11,L,Z
+  10,L,Z
    1,L,J
   11,L
 
 #lvl_5a
    7,R,D,X
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
   13,R,J
   14,R,D,X
    1,R,J
-   1,R
+   5,R,D,X
   40
 
 #lvl_5b
-  11,R,D,X
-   4,R,J
-   1,R
-  19,L
-   1,L,D
-   6,J
-   9,R,J
-  16,R
-   2,R,D
-  15,R,Z
+   8
+   2,R,J
    3,R
+   1,L,J
+  15,L,D
+   1,L
+   1
+   1,R
+   5
+  14,R
+   1,J
+  12,R,D
+  15,R,Z
+   2,R
   18,R,U,Z
    9,L,J,G
    2,R,J,G
@@ -282,23 +302,28 @@ ChapterTime: 0:46.716(2748)
   14,R,Z
    1,R,J
    8,R,K,G
-   4,R,J,G
+   3,R,J,G
+   1,J
   15,R,X
    4,R
   15,U,X
    5,R
-   1,G
-  27
-   4,L
-  11,L,D
+  13,R,G
+   8,G
+   1,R
+   6,D
+  13,L,D
+   2,D
    5,L,Z
-  29,R
-   4,R,Z
-   2,R,J
-  21
-  16,D
-   7,R,D
-   2,R
+   3,R
+  12,R,J,G
+   5,R
+   7,R,J
+   8,R
+   3,L
+  20,L,D
+   5,R,D
+   4,D
    5,R,Z
   21,L,J
    9,L
