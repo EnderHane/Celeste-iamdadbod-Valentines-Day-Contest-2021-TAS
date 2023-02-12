@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Banana23
-ChapterTime: 0:55.998(3294)
+ChapterTime: 0:55.301(3253)
    1
 
 #Start
@@ -21,59 +21,52 @@ ChapterTime: 0:55.998(3294)
   40
 
 #lvl_a-02
-   3,R,J
-   3,R,K,G
-   4,R
-  14,R,U,X
-   1,J
-   1,L,J
-   1,L,D
-   8,D
-   4,L,D
-   5,D
-   1,L,D
-   5,D
-   1,L,D
-   1,L
-   1,R,D
+   1,R,J
    1,R
-   1,R,D
+   1,R,J
+   1,R,K,G
+   3,R
+   6,R,Z
+   1,R,J
+   6,R
+   5,R,D,J
+   1,J
+   2,R,J
+   1,J
+   1,R,J
+  13,U,X
+   1,J
+   8,L,J
+  16,L,D
+  12,D
+   1,L
+   2,R,D
+   1,R
    4,R,Z
    1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R
-   4,R,D,J
    5,R
-  11,R,J
-  37,R,U,Z
-   2
-   1,R
-   1,R,J,G
-   5,L,J
-   5,J
-   5
-   1,J
    1
-   1,J
-   1,R,K
+   1,R
+   8,R,D,J
    2,R
-   6,R,Z
-   2,R,J
-   1,R,K,G
-   1,R
-   1
-   7,R
-   1,R,J
+   3
+   3,J
+  15,R,D,X
+   1,L,J
+   5,R,K,G
+   3,R,J,G
+   7,R,D,X
   40
 
 #lvl_a-03
-  11,R,D,X
+   2
    1,R,J
-   8,D
-  13,R,D
+   6,D
+  15,R,D
    2,R
    1,R,D
    2,R
@@ -342,25 +335,26 @@ ChapterTime: 0:55.998(3294)
   10,R
   25,R,U,Z
   15,R,X
-  12,R
-   2
-  13,R,X
-   1,L,J
-   1,J
-  14,L,D,X
+  13,R
+   6,R,Z
    1,R,J
-   8,R,D,X
-   1,R,J,G
-   1,R
-   1,R,K,G
-  12,R
+   4,R
+   3
+   1,R,D,J
+   7,R,D,X
   40
 
 #lvl_a-08
-   2,R,J
-  25,R,K,G
-  15,R,U,Z
-   2,R,J
+   1,R,J
+   1,R
+   1,J
+   1,R,K,G
+   3
+   7,R
+  34,R,J,G
+  17,R,U,Z
+   1,J
+   1
    6,L,U,X
   35,R
    1,R,J,G
@@ -440,7 +434,7 @@ ChapterTime: 0:55.998(3294)
   26,R
   14,R,X
    1,R,J,G
-   9,R
+   8,R
   38,L,X
-  41
+  42
   60,J
