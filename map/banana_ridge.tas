@@ -1,5 +1,5 @@
 console load ValentinesContest2021/1-Submissions/Banana23
-ChapterTime: 0:55.301(3253)
+ChapterTime: 0:55.131(3243)
    1
 
 #Start
@@ -406,35 +406,47 @@ ChapterTime: 0:55.301(3253)
    3,D
    3,R
    1
-  31,R,J
-  10,R,U,X
+  27,R,J
+   8,R,U,X
    1,L
-  11,J,G
-  15,R,J
-  13,R,D
-   5,D
-   5,R,D
+   1,J
+  11,K,G
+   1,R,K
    5,R
-  12,R,J,G
-   3,R
-   2
+   7,R,K
+   1,R
+   1,R,K
+  11,R,D
+   2,D
+   5,R,D
+   1,D
+   8,R,D
+  11,R,J,G
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
    1,R,J
    2,R
-   1,R,J
-   4,R
-   1,R,J,G
-   9,R,K,G
+   1,R,K,G
+  10,R,J,G
    5,R
-   8,R,K
-  14,R
+   4,R,J
+   2,R
+   1,R,J
+  12,R,D
+   2,R
    1,R,G
    1,R,J,G
    2,R
-   9
-  26,R
+   3
+  14,R
+   1
+  13,R
   14,R,X
-   1,R,J,G
+   2,R,J,G
    8,R
-  38,L,X
-  42
-  60,J
+  42,L,X
+  41
+  56,J
